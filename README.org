@@ -1,0 +1,3 @@
+##+TITLE: ac-R
+#+AUTHOR: Matthew L Fidler
+This provides auto-completion-mode support for R.
